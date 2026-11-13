@@ -1,0 +1,705 @@
+data;quenda;tarefa;email;horas
+02/10/2026;mañá;Reparto; elena.souto@correo.example ;3,5
+06/09/2026;mañá;Clasificación;roi.cotelo@correo.example;2,5
+25/10/2026;mañá;Clasificación;iria.varela@correo.example;2,5
+30/10/2026;mañá;Clasificación;elena.rial@correo.example;3,0
+02/09/2026;mañá;Recollida en supermercados; xurxo.fernandez98@correo.example ;4,0
+09/10/2026;tarde;Clasificación;martino.pena@correo.example;3,0
+17/10/2026;tarde;Reparto;Marta.rey@correo.example;2,0
+05/09/2026;tarde;Reparto;sabela.bermudez@correo.example;4,0
+13/09/2026;tarde;Clasificación;sabela.mourino@correo.example;2,0
+26/10/2026;mañá;Recollida en supermercados; carme.calvo27@correo.example ;4,0
+24/09/2026;mañá;Reparto; fran.lopez@correo.example ;2,5
+09/09/2026;tarde;Recollida en supermercados;olga.vilar34@correo.example;2,5
+24/10/2026;mañá;Reparto;DIEGO.CASTRO@CORREO.EXAMPLE;4,0
+16/09/2026;tarde;Reparto;NEREA.BERMUDEZ@CORREO.EXAMPLE;2,5
+04/09/2026;mañá;Reparto;MARTA.BERMUDEZ@CORREO.EXAMPLE;3,5
+10/10/2026;mañá;Recollida en supermercados;iria.riveiro@correo.example;2,5
+06/09/2026;mañá;Reparto; uxio.rial@correo.example ;4,0
+26/10/2026;mañá;Recollida en supermercados;vera.lema@correo.example;4,0
+22/10/2026;mañá;Reparto;carme.bermudez@correo.example;3,5
+26/09/2026;mañá;Clasificación;sergio.pena@correo.example;4,0
+17/09/2026;mañá;Recollida en supermercados;OSCAR.BERMUDEZ9@CORREO.EXAMPLE;2,0
+06/10/2026;tarde;Reparto;xurxo.fernandez98@correo.example;2,5
+14/10/2026;tarde;Reparto;paula.rey@correo.example;2,5
+28/10/2026;tarde;Recollida en supermercados;elena.calvo@correo.example;3,0
+09/09/2026;tarde;Recollida en supermercados;carme.calvo@correo.example;3,5
+27/09/2026;tarde;Recollida en supermercados;diego.fernandez@correo.example;2,0
+02/10/2026;mañá;Clasificación;vera.lema@correo.example;2,5
+03/10/2026;tarde;Clasificación; carme.pena@correo.example ;2,0
+18/10/2026;mañá;Clasificación;xurxo.vilar@correo.example;2,0
+22/10/2026;tarde;Reparto;vera.souto@correo.example;4,0
+28/10/2026;mañá;Recollida en supermercados;sergio.mourino@correo.example;2,5
+07/10/2026;tarde;Clasificación;marta.vilar@correo.example;2,0
+07/09/2026;mañá;Reparto; uxio.rial@correo.example ;2,0
+13/10/2026;mañá;Recollida en supermercados;ELENA.SOUTO17@CORREO.EXAMPLE;4,0
+21/10/2026;mañá;Reparto;Ana.souto@correo.example;2,0
+25/09/2026;tarde;Recollida en supermercados;fran.rey@correo.example;3,5
+12/09/2026;tarde;Recollida en supermercados;oscar.bermudez9@correo.example;2,5
+29/10/2026;mañá;Clasificación;alba.cotelo96@correo.example;3,0
+26/09/2026;mañá;Reparto;ALBA.MOURINO@CORREO.EXAMPLE;4,0
+09/10/2026;tarde;Clasificación;Sabela.dopico@correo.example;3,0
+27/10/2026;tarde;Clasificación;alba.mourino@correo.example;2,0
+09/09/2026;tarde;Recollida en supermercados;Xurxo.fernandez@correo.example;4,0
+26/09/2026;tarde;Clasificación;uxio.rial36@correo.example;2,5
+02/10/2026;mañá;Clasificación;martino.rey@correo.example;2,0
+14/10/2026;mañá;Reparto;elena.souto@correo.example;3,5
+09/10/2026;tarde;Reparto;uxio.rial@correo.example;3,5
+03/09/2026;mañá;Recollida en supermercados;hugo.pena@correo.example;3,0
+08/10/2026;mañá;Reparto;xurxo.dopico@correo.example;2,5
+03/09/2026;tarde;Reparto;paula.mourino@correo.example;4,0
+22/09/2026;tarde;Recollida en supermercados;alba.cotelo96@correo.example;4,0
+17/10/2026;mañá;Reparto;ana.souto@correo.example;3,0
+18/10/2026;tarde;Reparto;sabela.mourino@correo.example;3,5
+23/09/2026;tarde;Clasificación;sabela.mourino@correo.example;3,5
+19/10/2026;tarde;Reparto;roi.lema@correo.example;2,0
+06/09/2026;mañá;Clasificación;ROI.VILAR@CORREO.EXAMPLE;3,0
+04/10/2026;mañá;Clasificación; sergio.mourino@correo.example ;2,0
+17/10/2026;mañá;Clasificación;marta.rey@correo.example;4,0
+04/09/2026;mañá;Recollida en supermercados;Hugo.cotelo@correo.example;3,0
+01/09/2026;tarde;Reparto;PAULA.CALVO@CORREO.EXAMPLE;4,0
+28/09/2026;tarde;Reparto; nerea.rey@correo.example ;2,5
+30/09/2026;tarde;Recollida en supermercados;paula.calvo@correo.example;2,0
+01/10/2026;mañá;Reparto;rosa.rial@correo.example;2,5
+27/10/2026;mañá;Clasificación;elena.calvo@correo.example;2,5
+28/10/2026;tarde;Clasificación;SABELA.DOPICO@CORREO.EXAMPLE;3,5
+19/10/2026;mañá;Reparto;marta.vilar@correo.example;3,5
+17/09/2026;tarde;Recollida en supermercados;marta.bermudez@correo.example;3,5
+13/10/2026;mañá;Clasificación;VERA.SOUTO@CORREO.EXAMPLE;2,5
+09/10/2026;tarde;Recollida en supermercados;Tareixa.riveiro@correo.example;3,5
+16/10/2026;tarde;Recollida en supermercados;SABELA.VILAR@CORREO.EXAMPLE;3,0
+16/09/2026;mañá;Clasificación;xurxo.fernandez@correo.example;3,0
+31/10/2026;tarde;Clasificación;Diego.castro@correo.example;3,5
+03/09/2026;tarde;Recollida en supermercados;diego.lema@correo.example;2,5
+08/09/2026;tarde;Clasificación;elena.souto@correo.example;2,0
+22/09/2026;tarde;Reparto;xurxo.dopico@correo.example;3,0
+23/10/2026;tarde;Recollida en supermercados;lois.souto@correo.example;3,0
+29/10/2026;mañá;Recollida en supermercados;uxio.rial36@correo.example;3,0
+13/09/2026;mañá;Reparto; diego.cotelo65@correo.example ;2,5
+18/10/2026;mañá;Recollida en supermercados;Ana.souto@correo.example;2,5
+23/09/2026;tarde;Clasificación;VERA.CALVO46@CORREO.EXAMPLE;2,0
+30/09/2026;mañá;Clasificación;roi.vilar@correo.example;3,5
+21/09/2026;tarde;Clasificación;sabela.calvo@correo.example;3,5
+26/09/2026;mañá;Clasificación; elena.rial@correo.example ;2,0
+02/10/2026;tarde;Recollida en supermercados;diego.pena@correo.example;4,0
+23/09/2026;tarde;Reparto;fran.lopez@correo.example;3,0
+11/10/2026;mañá;Recollida en supermercados; iria.pena@correo.example ;2,5
+28/10/2026;tarde;Recollida en supermercados;iria.varela@correo.example;4,0
+07/09/2026;mañá;Clasificación;ALBA.MOURINO@CORREO.EXAMPLE;3,5
+24/10/2026;tarde;Clasificación;alba.mourino@correo.example;3,5
+28/09/2026;mañá;Clasificación;ELENA.RIVEIRO85@CORREO.EXAMPLE;4,0
+06/09/2026;tarde;Recollida en supermercados;ana.vilar@correo.example;2,0
+14/09/2026;mañá;Recollida en supermercados;elena.rial@correo.example;2,5
+28/09/2026;mañá;Recollida en supermercados; roi.cotelo@correo.example ;3,0
+15/10/2026;mañá;Clasificación;Sergio.cotelo64@correo.example;2,5
+27/10/2026;tarde;Recollida en supermercados; nerea.rey@correo.example ;2,0
+11/10/2026;mañá;Clasificación;carme.pena@correo.example;2,0
+19/09/2026;mañá;Clasificación;marta.vilar@correo.example;4,0
+01/10/2026;mañá;Recollida en supermercados; paula.calvo@correo.example ;2,0
+16/09/2026;mañá;Reparto;sabela.souto@correo.example;3,0
+13/10/2026;tarde;Recollida en supermercados;sabela.vilar@correo.example;2,0
+05/10/2026;mañá;Reparto;lois.vilar@correo.example;2,0
+11/10/2026;tarde;Recollida en supermercados;martino.rey@correo.example;4,0
+01/10/2026;tarde;Recollida en supermercados;FRAN.REY@CORREO.EXAMPLE;2,0
+26/09/2026;mañá;Reparto;elena.rial@correo.example;3,5
+13/09/2026;tarde;Reparto; carme.cotelo@correo.example ;4,0
+12/09/2026;tarde;Recollida en supermercados; elena.calvo54@correo.example ;2,0
+13/10/2026;tarde;Recollida en supermercados;MARTA.PENA@CORREO.EXAMPLE;3,5
+10/10/2026;tarde;Reparto;ana.vilar@correo.example;2,5
+03/10/2026;mañá;Reparto; brais.cotelo@correo.example ;2,5
+06/10/2026;mañá;Clasificación;FRAN.REY85@CORREO.EXAMPLE;3,0
+06/10/2026;tarde;Recollida en supermercados;carme.calvo@correo.example;2,0
+24/10/2026;tarde;Reparto;Roi.vilar@correo.example;2,5
+20/10/2026;mañá;Recollida en supermercados;rosa.castro@correo.example;2,5
+09/10/2026;tarde;Recollida en supermercados;xurxo.vilar@correo.example;2,5
+10/10/2026;mañá;Recollida en supermercados;Xurxo.fernandez98@correo.example;2,0
+03/10/2026;mañá;Clasificación;brais.dopico@correo.example;3,0
+07/09/2026;tarde;Reparto;hugo.cotelo@correo.example;3,0
+14/09/2026;mañá;Reparto;ROI.COTELO@CORREO.EXAMPLE;2,5
+03/10/2026;tarde;Recollida en supermercados;BRAIS.COTELO@CORREO.EXAMPLE;2,0
+05/09/2026;mañá;Recollida en supermercados;HUGO.PENA@CORREO.EXAMPLE;3,5
+05/09/2026;tarde;Recollida en supermercados;ana.vilar@correo.example;2,5
+07/09/2026;mañá;Reparto;SABELA.CASTRO@CORREO.EXAMPLE;2,0
+08/10/2026;mañá;Clasificación; lois.mourino@correo.example ;3,0
+16/09/2026;tarde;Reparto; martino.rey@correo.example ;3,0
+05/10/2026;mañá;Reparto;ana.souto@correo.example;3,5
+13/10/2026;mañá;Reparto;xurxo.fernandez98@correo.example;2,0
+11/10/2026;tarde;Reparto;xurxo.fernandez98@correo.example;2,0
+27/10/2026;tarde;Clasificación;sabela.castro@correo.example;2,5
+29/10/2026;mañá;Clasificación;SABELA.LEMA@CORREO.EXAMPLE;2,5
+27/09/2026;mañá;Recollida en supermercados;SERGIO.PENA@CORREO.EXAMPLE;4,0
+19/09/2026;mañá;Recollida en supermercados;UXIO.SOUTO@CORREO.EXAMPLE;3,0
+25/10/2026;tarde;Reparto;HUGO.RIVEIRO@CORREO.EXAMPLE;4,0
+13/10/2026;mañá;Reparto;carme.calvo27@correo.example;4,0
+28/10/2026;tarde;Clasificación;LOIS.MOURINO@CORREO.EXAMPLE;4,0
+26/10/2026;tarde;Clasificación;alba.castro@correo.example;4,0
+05/10/2026;tarde;Recollida en supermercados;sabela.dopico@correo.example;2,0
+08/10/2026;mañá;Clasificación;fran.rey@correo.example;4,0
+02/09/2026;mañá;Reparto;Diego.castro@correo.example;2,5
+25/09/2026;mañá;Recollida en supermercados;fran.lopez@correo.example;2,0
+26/10/2026;tarde;Clasificación;sergio.lopez@correo.example;4,0
+08/09/2026;mañá;Clasificación;elena.souto17@correo.example;2,0
+23/10/2026;tarde;Reparto;tareixa.riveiro@correo.example;3,0
+06/09/2026;tarde;Recollida en supermercados;lois.vilar@correo.example;3,5
+07/09/2026;mañá;Recollida en supermercados;ROI.VILAR@CORREO.EXAMPLE;3,5
+08/10/2026;mañá;Recollida en supermercados;sergio.cotelo64@correo.example;4,0
+02/09/2026;mañá;Recollida en supermercados;Diego.fernandez@correo.example;2,0
+07/09/2026;mañá;Recollida en supermercados; alba.rey@correo.example ;4,0
+16/09/2026;mañá;Reparto;sergio.cotelo64@correo.example;3,0
+15/10/2026;tarde;Clasificación;uxio.souto@correo.example;2,0
+25/10/2026;mañá;Recollida en supermercados;lois.mourino@correo.example;4,0
+01/09/2026;tarde;Recollida en supermercados;roi.cotelo@correo.example;2,0
+04/09/2026;tarde;Recollida en supermercados;diego.castro@correo.example;3,5
+20/09/2026;mañá;Recollida en supermercados;alba.cotelo96@correo.example;4,0
+04/09/2026;tarde;Clasificación;vera.calvo46@correo.example;3,5
+20/09/2026;mañá;Reparto;Roi.lema@correo.example;3,0
+08/09/2026;mañá;Recollida en supermercados;vera.lema@correo.example;2,5
+20/10/2026;tarde;Reparto;PAULA.CALVO@CORREO.EXAMPLE;3,5
+22/10/2026;tarde;Recollida en supermercados; paula.calvo@correo.example ;2,5
+09/10/2026;mañá;Reparto;nerea.rey@correo.example;4,0
+07/09/2026;mañá;Clasificación;fran.lopez@correo.example;3,0
+19/09/2026;mañá;Clasificación;carme.calvo27@correo.example;4,0
+20/09/2026;mañá;Clasificación; brais.rey@correo.example ;2,0
+06/10/2026;tarde;Reparto;vera.souto@correo.example;3,5
+21/10/2026;mañá;Recollida en supermercados; sabela.bermudez@correo.example ;2,5
+03/10/2026;mañá;Recollida en supermercados;paula.mourino@correo.example;4,0
+30/10/2026;tarde;Clasificación;sabela.castro@correo.example;3,5
+18/09/2026;mañá;Recollida en supermercados;CARME.CALVO@CORREO.EXAMPLE;3,5
+06/09/2026;mañá;Reparto;carme.cotelo@correo.example;3,0
+23/10/2026;mañá;Recollida en supermercados;SERGIO.COTELO64@CORREO.EXAMPLE;4,0
+26/09/2026;tarde;Clasificación;lois.fernandez@correo.example;3,5
+07/09/2026;mañá;Recollida en supermercados;Martino.pena@correo.example;3,5
+17/09/2026;mañá;Recollida en supermercados;uxio.rial36@correo.example;2,0
+09/09/2026;mañá;Clasificación; lois.vilar@correo.example ;2,5
+13/10/2026;mañá;Recollida en supermercados; alba.cotelo96@correo.example ;3,5
+28/09/2026;mañá;Reparto; nerea.rey@correo.example ;2,0
+26/10/2026;mañá;Reparto;vera.calvo46@correo.example;4,0
+13/10/2026;mañá;Recollida en supermercados;Carme.calvo27@correo.example;2,5
+01/09/2026;mañá;Recollida en supermercados;XURXO.VILAR@CORREO.EXAMPLE;3,5
+01/09/2026;mañá;Clasificación;roi.vilar@correo.example;3,0
+04/10/2026;tarde;Reparto;OLGA.CALVO@CORREO.EXAMPLE;4,0
+01/10/2026;mañá;Recollida en supermercados; olga.vilar@correo.example ;2,0
+11/10/2026;tarde;Clasificación;diego.pena@correo.example;4,0
+11/09/2026;tarde;Clasificación;lois.souto@correo.example;2,5
+28/09/2026;mañá;Recollida en supermercados;sergio.mourino@correo.example;3,0
+30/10/2026;mañá;Recollida en supermercados;alba.cotelo@correo.example;2,0
+23/09/2026;mañá;Reparto;sabela.dopico@correo.example;4,0
+16/10/2026;tarde;Reparto;iria.bermudez@correo.example;2,5
+05/10/2026;tarde;Recollida en supermercados; vera.calvo46@correo.example ;4,0
+12/10/2026;tarde;Reparto;iria.bermudez@correo.example;4,0
+01/09/2026;tarde;Clasificación;iria.souto@correo.example;4,0
+22/10/2026;tarde;Reparto;elena.lopez@correo.example;3,5
+27/10/2026;tarde;Recollida en supermercados;ELENA.SOUTO41@CORREO.EXAMPLE;3,0
+04/09/2026;mañá;Recollida en supermercados;sergio.bermudez@correo.example;4,0
+04/09/2026;tarde;Recollida en supermercados;marta.pena@correo.example;2,0
+10/10/2026;mañá;Clasificación;hugo.pena@correo.example;2,0
+13/10/2026;tarde;Reparto;xurxo.cotelo@correo.example;2,5
+05/09/2026;tarde;Recollida en supermercados;carme.bermudez@correo.example;4,0
+29/10/2026;tarde;Reparto;vera.calvo@correo.example;2,0
+06/09/2026;tarde;Clasificación; uxio.castro@correo.example ;3,5
+03/10/2026;mañá;Clasificación;diego.castro@correo.example;4,0
+05/09/2026;tarde;Recollida en supermercados;Sergio.cotelo@correo.example;2,5
+26/09/2026;mañá;Clasificación;nerea.bermudez@correo.example;2,0
+20/10/2026;tarde;Reparto;marta.pena@correo.example;3,0
+08/09/2026;mañá;Clasificación;olga.vilar34@correo.example;2,0
+05/10/2026;tarde;Clasificación; brais.cotelo@correo.example ;3,0
+30/09/2026;tarde;Reparto;sergio.cotelo64@correo.example;2,0
+31/10/2026;mañá;Clasificación; oscar.cotelo@correo.example ;4,0
+14/09/2026;tarde;Clasificación;carme.pena@correo.example;4,0
+06/09/2026;tarde;Recollida en supermercados;diego.fernandez@correo.example;3,5
+29/09/2026;mañá;Recollida en supermercados;lois.lema@correo.example;4,0
+25/10/2026;mañá;Reparto;Fran.lopez@correo.example;2,0
+05/10/2026;tarde;Clasificación;iria.riveiro@correo.example;4,0
+21/10/2026;mañá;Reparto; paula.mourino@correo.example ;2,0
+05/09/2026;tarde;Clasificación;roi.vilar6@correo.example;2,5
+01/10/2026;mañá;Recollida en supermercados;lois.lema72@correo.example;3,5
+09/09/2026;tarde;Recollida en supermercados;elena.souto17@correo.example;3,5
+03/10/2026;tarde;Reparto;diego.castro@correo.example;4,0
+13/09/2026;tarde;Clasificación; hugo.riveiro@correo.example ;3,0
+10/10/2026;tarde;Recollida en supermercados;carme.calvo@correo.example;2,0
+30/09/2026;tarde;Reparto; diego.fernandez@correo.example ;4,0
+02/10/2026;tarde;Recollida en supermercados;Brais.dopico@correo.example;4,0
+29/10/2026;mañá;Reparto;martino.mourino14@correo.example;2,5
+18/10/2026;tarde;Recollida en supermercados;CARME.CALVO27@CORREO.EXAMPLE;3,5
+26/10/2026;mañá;Clasificación;Hugo.cotelo@correo.example;3,5
+12/10/2026;mañá;Recollida en supermercados;fran.rey@correo.example;2,0
+10/09/2026;mañá;Reparto;lois.dopico@correo.example;2,0
+17/10/2026;tarde;Reparto;martino.rey@correo.example;2,5
+17/09/2026;tarde;Clasificación;fran.rey85@correo.example;3,5
+24/10/2026;tarde;Recollida en supermercados;paula.calvo@correo.example;2,0
+16/09/2026;mañá;Recollida en supermercados;roi.fernandez@correo.example;3,0
+02/10/2026;mañá;Reparto;NEREA.DOPICO@CORREO.EXAMPLE;4,0
+23/09/2026;tarde;Recollida en supermercados;uxio.cotelo22@correo.example;2,5
+15/09/2026;mañá;Reparto;Hugo.cotelo@correo.example;3,0
+04/10/2026;tarde;Recollida en supermercados;lois.vilar@correo.example;3,0
+11/10/2026;tarde;Recollida en supermercados;uxio.castro@correo.example;2,0
+09/10/2026;tarde;Clasificación; uxio.mourino@correo.example ;4,0
+11/10/2026;tarde;Clasificación;BRAIS.COTELO@CORREO.EXAMPLE;2,0
+05/09/2026;mañá;Reparto; elena.souto@correo.example ;4,0
+24/10/2026;tarde;Recollida en supermercados;diego.cotelo65@correo.example;3,0
+05/09/2026;mañá;Clasificación; sabela.castro@correo.example ;2,5
+22/09/2026;mañá;Clasificación; lois.lema72@correo.example ;3,0
+14/09/2026;mañá;Reparto; xurxo.cotelo@correo.example ;3,5
+21/09/2026;mañá;Clasificación;martino.riveiro@correo.example;2,5
+22/09/2026;tarde;Reparto; oscar.cotelo@correo.example ;3,0
+12/09/2026;tarde;Recollida en supermercados;FRAN.REY85@CORREO.EXAMPLE;2,5
+15/09/2026;tarde;Reparto;brais.rey@correo.example;2,5
+27/10/2026;mañá;Clasificación;uxio.castro@correo.example;3,0
+10/09/2026;mañá;Recollida en supermercados;alba.castro@correo.example;2,5
+06/09/2026;tarde;Reparto;SERGIO.LOPEZ@CORREO.EXAMPLE;3,0
+13/10/2026;mañá;Reparto;brais.cotelo@correo.example;3,5
+28/10/2026;tarde;Clasificación; lois.mourino@correo.example ;3,0
+28/10/2026;tarde;Clasificación;Nerea.dopico@correo.example;4,0
+26/09/2026;tarde;Recollida en supermercados;elena.souto17@correo.example;2,5
+03/09/2026;mañá;Recollida en supermercados;iria.bermudez@correo.example;3,0
+02/09/2026;tarde;Recollida en supermercados;carme.cotelo@correo.example;2,5
+18/10/2026;mañá;Recollida en supermercados;MARTA.BERMUDEZ@CORREO.EXAMPLE;2,0
+16/09/2026;tarde;Clasificación;lois.vilar@correo.example;2,0
+24/10/2026;tarde;Clasificación;tareixa.calvo@correo.example;2,5
+20/10/2026;mañá;Reparto;Elena.souto@correo.example;2,5
+25/09/2026;mañá;Recollida en supermercados;Elena.calvo54@correo.example;3,0
+31/10/2026;mañá;Reparto; martino.rey@correo.example ;2,5
+16/09/2026;mañá;Clasificación;olga.vilar34@correo.example;2,5
+24/10/2026;mañá;Clasificación;xurxo.fernandez98@correo.example;2,0
+09/09/2026;mañá;Recollida en supermercados;alba.rey@correo.example;3,0
+26/10/2026;mañá;Recollida en supermercados;paula.calvo@correo.example;4,0
+30/10/2026;tarde;Recollida en supermercados; nerea.bermudez@correo.example ;3,0
+28/09/2026;tarde;Reparto;Oscar.cotelo@correo.example;3,5
+03/09/2026;tarde;Recollida en supermercados;elena.rial@correo.example;3,5
+17/10/2026;mañá;Recollida en supermercados;Diego.fernandez@correo.example;2,5
+13/09/2026;mañá;Clasificación;sergio.pena@correo.example;2,5
+21/09/2026;tarde;Clasificación;UXIO.CASTRO@CORREO.EXAMPLE;2,5
+10/10/2026;mañá;Reparto;elena.lopez@correo.example;3,0
+08/09/2026;mañá;Reparto;ROI.LEMA@CORREO.EXAMPLE;2,0
+29/10/2026;tarde;Clasificación;VERA.SOUTO@CORREO.EXAMPLE;2,0
+05/10/2026;tarde;Reparto;vera.souto@correo.example;3,0
+24/10/2026;tarde;Clasificación;MARTA.PENA@CORREO.EXAMPLE;2,0
+26/10/2026;mañá;Recollida en supermercados;roi.vilar@correo.example;2,0
+24/10/2026;mañá;Reparto;vera.calvo46@correo.example;3,5
+03/10/2026;tarde;Reparto;PAULA.CALVO@CORREO.EXAMPLE;2,5
+14/10/2026;mañá;Reparto;sergio.bermudez@correo.example;3,5
+05/10/2026;tarde;Clasificación; fran.rey85@correo.example ;3,5
+25/10/2026;mañá;Clasificación; carme.bermudez@correo.example ;4,0
+31/10/2026;mañá;Reparto; sabela.calvo@correo.example ;2,5
+31/10/2026;tarde;Clasificación;SABELA.CASTRO@CORREO.EXAMPLE;2,0
+10/09/2026;mañá;Clasificación;sabela.mourino@correo.example;3,0
+10/10/2026;tarde;Recollida en supermercados; elena.souto@correo.example ;4,0
+22/09/2026;mañá;Clasificación;elena.souto@correo.example;4,0
+20/09/2026;tarde;Reparto;fran.rey85@correo.example;2,0
+03/09/2026;tarde;Clasificación;Xurxo.fernandez98@correo.example;2,0
+27/10/2026;tarde;Recollida en supermercados; uxio.souto@correo.example ;3,5
+09/09/2026;tarde;Recollida en supermercados; olga.vilar34@correo.example ;3,0
+06/09/2026;mañá;Reparto;xurxo.riveiro@correo.example;4,0
+05/09/2026;mañá;Reparto;PAULA.REY@CORREO.EXAMPLE;4,0
+28/09/2026;tarde;Reparto;Elena.rial@correo.example;4,0
+08/09/2026;tarde;Clasificación;SERGIO.BERMUDEZ@CORREO.EXAMPLE;3,5
+23/10/2026;tarde;Reparto;SABELA.SOUTO@CORREO.EXAMPLE;4,0
+03/10/2026;tarde;Clasificación;hugo.riveiro@correo.example;3,0
+20/09/2026;tarde;Clasificación;paula.rey@correo.example;2,5
+16/09/2026;mañá;Recollida en supermercados;Paula.rey@correo.example;2,5
+31/10/2026;mañá;Clasificación; paula.rey@correo.example ;2,5
+19/09/2026;mañá;Recollida en supermercados;carme.pena@correo.example;3,5
+02/10/2026;tarde;Reparto;brais.dopico@correo.example;3,0
+17/09/2026;tarde;Clasificación;lois.souto@correo.example;2,5
+25/09/2026;mañá;Recollida en supermercados;MARTA.REY@CORREO.EXAMPLE;4,0
+03/10/2026;tarde;Clasificación;iria.souto@correo.example;4,0
+03/10/2026;tarde;Recollida en supermercados;vera.souto@correo.example;4,0
+21/09/2026;mañá;Clasificación;elena.riveiro85@correo.example;2,5
+12/10/2026;mañá;Reparto; ana.vilar@correo.example ;2,5
+17/09/2026;tarde;Reparto; martino.riveiro@correo.example ;2,0
+20/09/2026;mañá;Reparto;uxio.castro@correo.example;2,5
+23/09/2026;tarde;Reparto;elena.souto@correo.example;2,5
+11/09/2026;tarde;Reparto; lois.lema@correo.example ;3,5
+04/09/2026;mañá;Recollida en supermercados;ELENA.SOUTO@CORREO.EXAMPLE;4,0
+19/09/2026;mañá;Clasificación;Diego.cotelo@correo.example;2,0
+11/10/2026;mañá;Reparto;iria.souto@correo.example;2,5
+10/09/2026;mañá;Reparto;Paula.mourino@correo.example;2,0
+15/09/2026;mañá;Reparto;roi.vilar@correo.example;3,0
+17/10/2026;mañá;Recollida en supermercados;UXIO.SOUTO@CORREO.EXAMPLE;2,0
+08/09/2026;mañá;Reparto;hugo.cotelo@correo.example;2,0
+08/10/2026;mañá;Reparto; vera.lema@correo.example ;4,0
+07/09/2026;mañá;Recollida en supermercados;hugo.lema@correo.example;3,5
+29/10/2026;mañá;Recollida en supermercados;ana.vilar@correo.example;2,0
+29/10/2026;mañá;Reparto;carme.calvo27@correo.example;4,0
+12/10/2026;mañá;Recollida en supermercados;iria.souto@correo.example;3,5
+19/10/2026;mañá;Recollida en supermercados;carme.pena@correo.example;2,5
+07/09/2026;tarde;Clasificación; martino.riveiro@correo.example ;3,5
+27/10/2026;tarde;Clasificación;uxio.castro@correo.example;2,0
+21/10/2026;mañá;Clasificación;sabela.mourino@correo.example;4,0
+26/09/2026;mañá;Reparto;martino.riveiro@correo.example;3,0
+08/09/2026;tarde;Reparto;IRIA.SOUTO@CORREO.EXAMPLE;2,5
+23/09/2026;tarde;Clasificación;xurxo.lopez@correo.example;2,5
+24/10/2026;mañá;Clasificación;ELENA.SOUTO@CORREO.EXAMPLE;2,0
+08/09/2026;tarde;Reparto; sergio.cotelo@correo.example ;3,5
+19/09/2026;mañá;Clasificación;UXIO.COTELO22@CORREO.EXAMPLE;3,0
+06/10/2026;tarde;Clasificación;roi.lema@correo.example;3,0
+05/10/2026;mañá;Recollida en supermercados;ANA.SOUTO@CORREO.EXAMPLE;2,5
+04/10/2026;tarde;Clasificación;marta.rey@correo.example;2,0
+05/09/2026;tarde;Recollida en supermercados;lois.vilar@correo.example;3,0
+10/09/2026;tarde;Clasificación;diego.fernandez@correo.example;3,0
+07/09/2026;tarde;Clasificación;paula.rey@correo.example;4,0
+21/09/2026;mañá;Clasificación;PAULA.MOURINO@CORREO.EXAMPLE;2,5
+20/10/2026;mañá;Recollida en supermercados;Hugo.riveiro@correo.example;3,0
+14/09/2026;mañá;Clasificación;roi.lema@correo.example;2,0
+28/10/2026;mañá;Reparto;elena.calvo@correo.example;3,0
+29/10/2026;mañá;Reparto;xurxo.cotelo@correo.example;4,0
+22/10/2026;mañá;Clasificación;paula.rey@correo.example;3,5
+17/09/2026;mañá;Clasificación; carme.pena@correo.example ;2,0
+12/09/2026;tarde;Clasificación;lois.lema72@correo.example;2,5
+24/09/2026;mañá;Recollida en supermercados;UXIO.SOUTO@CORREO.EXAMPLE;2,0
+06/10/2026;tarde;Recollida en supermercados;ana.souto@correo.example;3,0
+17/09/2026;tarde;Recollida en supermercados;xurxo.fernandez98@correo.example;4,0
+14/10/2026;tarde;Recollida en supermercados;ROSA.RIAL@CORREO.EXAMPLE;2,5
+03/09/2026;tarde;Recollida en supermercados;LOIS.VILAR@CORREO.EXAMPLE;4,0
+21/09/2026;tarde;Recollida en supermercados; ana.souto@correo.example ;2,5
+18/10/2026;mañá;Recollida en supermercados;SABELA.VILAR@CORREO.EXAMPLE;2,5
+22/10/2026;mañá;Recollida en supermercados;iria.riveiro@correo.example;4,0
+15/09/2026;tarde;Clasificación;NEREA.DOPICO@CORREO.EXAMPLE;2,0
+02/09/2026;tarde;Reparto;paula.calvo@correo.example;4,0
+26/09/2026;mañá;Reparto;martino.pena@correo.example;4,0
+27/09/2026;tarde;Reparto;tareixa.calvo@correo.example;2,0
+23/10/2026;mañá;Reparto; uxio.mourino@correo.example ;2,5
+18/09/2026;mañá;Clasificación;TAREIXA.RIVEIRO@CORREO.EXAMPLE;3,0
+21/09/2026;tarde;Reparto;nerea.dopico@correo.example;4,0
+09/09/2026;tarde;Reparto;lois.lema72@correo.example;3,5
+05/09/2026;tarde;Reparto;Sergio.mourino@correo.example;2,5
+07/10/2026;mañá;Clasificación; olga.calvo@correo.example ;3,5
+01/09/2026;mañá;Recollida en supermercados; hugo.pena@correo.example ;3,0
+13/10/2026;tarde;Recollida en supermercados;diego.lema@correo.example;2,0
+26/09/2026;tarde;Reparto;diego.lema@correo.example;4,0
+27/10/2026;tarde;Recollida en supermercados;Xurxo.fernandez@correo.example;2,5
+01/10/2026;mañá;Reparto;IRIA.PENA@CORREO.EXAMPLE;3,5
+15/10/2026;tarde;Clasificación; sabela.souto@correo.example ;4,0
+21/10/2026;mañá;Reparto; rosa.castro@correo.example ;3,5
+13/09/2026;mañá;Reparto; sabela.calvo@correo.example ;3,0
+17/10/2026;tarde;Clasificación;PAULA.REY@CORREO.EXAMPLE;3,0
+26/10/2026;mañá;Reparto;lois.mourino@correo.example;2,0
+22/09/2026;tarde;Clasificación;diego.dopico@correo.example;4,0
+02/10/2026;mañá;Clasificación;Uxio.cotelo22@correo.example;3,5
+22/10/2026;tarde;Clasificación;lois.lema@correo.example;2,5
+19/10/2026;tarde;Clasificación;nerea.bermudez@correo.example;2,5
+15/09/2026;mañá;Reparto;carme.calvo27@correo.example;2,0
+07/10/2026;mañá;Recollida en supermercados;Olga.vilar@correo.example;2,0
+05/10/2026;mañá;Clasificación;uxio.souto@correo.example;3,5
+19/10/2026;mañá;Reparto; sergio.pena@correo.example ;3,5
+19/10/2026;tarde;Clasificación;diego.castro@correo.example;3,5
+22/10/2026;mañá;Recollida en supermercados;sabela.bermudez@correo.example;2,0
+27/10/2026;mañá;Recollida en supermercados;fran.lopez@correo.example;2,5
+12/10/2026;mañá;Clasificación;Roi.vilar6@correo.example;2,0
+05/09/2026;mañá;Reparto;paula.calvo@correo.example;4,0
+17/09/2026;mañá;Reparto;Xurxo.fernandez98@correo.example;2,0
+23/10/2026;tarde;Clasificación;sabela.souto@correo.example;3,5
+11/09/2026;tarde;Clasificación;sabela.calvo@correo.example;4,0
+13/09/2026;tarde;Clasificación;diego.lema@correo.example;4,0
+06/10/2026;tarde;Clasificación;xurxo.lopez@correo.example;3,0
+19/09/2026;mañá;Reparto;xurxo.lopez@correo.example;4,0
+07/10/2026;mañá;Clasificación;marta.pena@correo.example;3,0
+07/10/2026;mañá;Recollida en supermercados;alba.mourino@correo.example;2,0
+08/10/2026;mañá;Clasificación;xurxo.vilar@correo.example;2,5
+11/09/2026;mañá;Reparto;Elena.souto@correo.example;2,0
+20/10/2026;mañá;Recollida en supermercados;lois.mourino@correo.example;2,5
+26/10/2026;tarde;Clasificación;carme.pena@correo.example;4,0
+06/10/2026;mañá;Clasificación;iria.bermudez@correo.example;2,0
+24/10/2026;tarde;Clasificación;sabela.mourino@correo.example;3,0
+24/09/2026;mañá;Reparto;brais.dopico@correo.example;3,0
+10/09/2026;tarde;Clasificación;CARME.BERMUDEZ@CORREO.EXAMPLE;3,0
+14/10/2026;mañá;Recollida en supermercados;Hugo.riveiro@correo.example;3,5
+13/10/2026;tarde;Recollida en supermercados;sergio.cotelo64@correo.example;4,0
+07/10/2026;mañá;Clasificación; brais.cotelo@correo.example ;2,5
+28/10/2026;mañá;Clasificación;diego.dopico@correo.example;4,0
+18/10/2026;mañá;Reparto;sergio.mourino@correo.example;3,5
+11/10/2026;mañá;Clasificación;sergio.bermudez@correo.example;3,5
+15/10/2026;tarde;Reparto; vera.souto@correo.example ;2,0
+18/10/2026;tarde;Reparto; iria.pena@correo.example ;2,5
+14/09/2026;mañá;Recollida en supermercados;alba.mourino@correo.example;3,5
+15/10/2026;tarde;Clasificación;diego.pena@correo.example;2,0
+24/10/2026;tarde;Clasificación;xurxo.fernandez@correo.example;3,5
+12/10/2026;mañá;Recollida en supermercados;fran.lopez@correo.example;2,5
+08/10/2026;tarde;Reparto;Alba.cotelo@correo.example;2,0
+25/09/2026;mañá;Reparto;SERGIO.PENA@CORREO.EXAMPLE;3,0
+25/10/2026;tarde;Reparto;roi.lema@correo.example;4,0
+15/10/2026;tarde;Clasificación;roi.cotelo@correo.example;4,0
+18/09/2026;mañá;Clasificación;iria.pena@correo.example;2,5
+16/09/2026;tarde;Recollida en supermercados;alba.castro@correo.example;2,0
+15/10/2026;tarde;Reparto;elena.riveiro85@correo.example;3,0
+23/10/2026;mañá;Reparto;HUGO.PENA@CORREO.EXAMPLE;3,0
+16/09/2026;tarde;Recollida en supermercados;uxio.mourino@correo.example;3,0
+02/10/2026;tarde;Recollida en supermercados;Oscar.rial@correo.example;2,5
+23/10/2026;tarde;Clasificación;ALBA.REY@CORREO.EXAMPLE;4,0
+02/09/2026;mañá;Recollida en supermercados;DIEGO.LEMA@CORREO.EXAMPLE;3,0
+09/09/2026;tarde;Reparto; sabela.dopico@correo.example ;2,5
+12/10/2026;tarde;Recollida en supermercados;xurxo.riveiro@correo.example;4,0
+07/09/2026;tarde;Recollida en supermercados;SERGIO.BERMUDEZ@CORREO.EXAMPLE;3,0
+29/10/2026;tarde;Clasificación;marta.vilar@correo.example;3,0
+11/09/2026;tarde;Recollida en supermercados;vera.souto@correo.example;2,5
+29/10/2026;tarde;Recollida en supermercados;Marta.vilar@correo.example;2,0
+09/10/2026;mañá;Reparto;MARTA.VILAR@CORREO.EXAMPLE;4,0
+16/09/2026;tarde;Clasificación; sabela.dopico@correo.example ;4,0
+29/09/2026;mañá;Recollida en supermercados; roi.vilar6@correo.example ;3,5
+21/10/2026;tarde;Recollida en supermercados; ana.vilar@correo.example ;4,0
+21/09/2026;tarde;Recollida en supermercados;Alba.rey@correo.example;2,0
+21/09/2026;tarde;Reparto;Vera.souto@correo.example;2,5
+24/10/2026;mañá;Clasificación;roi.cotelo@correo.example;3,5
+15/10/2026;mañá;Reparto;SABELA.CASTRO@CORREO.EXAMPLE;3,5
+18/10/2026;tarde;Reparto;diego.castro@correo.example;3,5
+14/10/2026;tarde;Clasificación;uxio.mourino@correo.example;3,0
+08/10/2026;tarde;Clasificación;roi.fernandez@correo.example;2,0
+11/10/2026;tarde;Reparto;ALBA.REY@CORREO.EXAMPLE;4,0
+10/10/2026;tarde;Recollida en supermercados;alba.cotelo59@correo.example;3,5
+17/09/2026;mañá;Clasificación; alba.rey@correo.example ;2,0
+28/10/2026;mañá;Clasificación;lois.souto@correo.example;3,5
+11/10/2026;tarde;Recollida en supermercados;marta.pena@correo.example;2,0
+13/10/2026;tarde;Clasificación;ana.souto@correo.example;2,0
+01/10/2026;tarde;Reparto;XURXO.FERNANDEZ98@CORREO.EXAMPLE;2,0
+06/10/2026;mañá;Clasificación;OSCAR.RIAL@CORREO.EXAMPLE;2,5
+01/10/2026;mañá;Reparto; brais.dopico@correo.example ;2,0
+08/10/2026;tarde;Clasificación;lois.souto@correo.example;4,0
+06/09/2026;tarde;Reparto;sabela.bermudez@correo.example;3,5
+13/09/2026;mañá;Reparto;OLGA.CALVO@CORREO.EXAMPLE;2,0
+10/09/2026;mañá;Clasificación;sabela.vilar@correo.example;2,5
+06/09/2026;tarde;Clasificación;roi.vilar@correo.example;2,0
+02/09/2026;mañá;Reparto;olga.vilar@correo.example;4,0
+08/10/2026;tarde;Recollida en supermercados;ELENA.RIAL@CORREO.EXAMPLE;2,0
+14/10/2026;tarde;Clasificación; nerea.bermudez@correo.example ;2,5
+01/09/2026;mañá;Reparto;elena.lopez@correo.example;4,0
+14/09/2026;mañá;Reparto;sabela.lema@correo.example;3,0
+19/10/2026;tarde;Reparto; tareixa.riveiro@correo.example ;2,0
+10/10/2026;tarde;Clasificación;rosa.rial@correo.example;2,5
+28/09/2026;tarde;Recollida en supermercados;tareixa.riveiro@correo.example;2,0
+20/09/2026;mañá;Reparto; fran.lopez@correo.example ;4,0
+06/10/2026;mañá;Reparto;OSCAR.RIAL@CORREO.EXAMPLE;2,0
+02/09/2026;tarde;Recollida en supermercados;Elena.riveiro85@correo.example;3,5
+18/09/2026;tarde;Clasificación;Uxio.castro@correo.example;3,0
+09/09/2026;tarde;Recollida en supermercados;elena.souto@correo.example;4,0
+04/10/2026;mañá;Clasificación;elena.souto41@correo.example;3,5
+08/09/2026;mañá;Recollida en supermercados;hugo.lema@correo.example;3,0
+06/10/2026;mañá;Reparto; oscar.rial@correo.example ;2,5
+07/10/2026;mañá;Reparto;tareixa.calvo@correo.example;2,0
+04/10/2026;mañá;Reparto;fran.lopez@correo.example;3,0
+04/10/2026;mañá;Reparto; sergio.lopez@correo.example ;2,0
+29/10/2026;tarde;Clasificación;MARTINO.PENA@CORREO.EXAMPLE;3,0
+03/10/2026;mañá;Clasificación; alba.rey@correo.example ;3,5
+08/09/2026;mañá;Reparto;IRIA.BERMUDEZ@CORREO.EXAMPLE;3,0
+15/09/2026;tarde;Reparto;diego.cotelo@correo.example;2,5
+27/09/2026;tarde;Recollida en supermercados; diego.castro@correo.example ;2,5
+29/09/2026;tarde;Reparto;paula.mourino@correo.example;3,0
+20/10/2026;tarde;Recollida en supermercados;UXIO.CASTRO@CORREO.EXAMPLE;3,5
+09/09/2026;tarde;Reparto;BRAIS.REY@CORREO.EXAMPLE;2,5
+15/10/2026;tarde;Clasificación;oscar.cotelo@correo.example;2,0
+08/10/2026;mañá;Clasificación;SABELA.DOPICO@CORREO.EXAMPLE;2,0
+24/10/2026;tarde;Recollida en supermercados;Vera.lema@correo.example;3,5
+17/10/2026;tarde;Recollida en supermercados;FRAN.REY@CORREO.EXAMPLE;2,5
+29/09/2026;mañá;Reparto;elena.souto41@correo.example;3,0
+22/09/2026;tarde;Reparto;Brais.dopico@correo.example;4,0
+04/10/2026;mañá;Clasificación;Diego.lema@correo.example;3,5
+11/09/2026;tarde;Reparto;fran.rey@correo.example;2,5
+12/09/2026;mañá;Clasificación;Iria.bermudez@correo.example;3,0
+16/09/2026;mañá;Clasificación;FRAN.REY@CORREO.EXAMPLE;3,5
+23/10/2026;mañá;Clasificación;uxio.rial@correo.example;2,5
+09/09/2026;mañá;Recollida en supermercados;Martino.riveiro@correo.example;2,5
+25/10/2026;tarde;Clasificación;lois.dopico@correo.example;2,5
+12/09/2026;mañá;Clasificación;sergio.cotelo@correo.example;4,0
+03/09/2026;tarde;Recollida en supermercados;iria.varela@correo.example;3,5
+21/10/2026;mañá;Recollida en supermercados;martino.pena@correo.example;4,0
+15/09/2026;tarde;Clasificación; elena.souto17@correo.example ;4,0
+15/10/2026;mañá;Reparto;Vera.souto@correo.example;3,5
+23/09/2026;mañá;Reparto;vera.lema@correo.example;2,5
+11/09/2026;tarde;Clasificación; lois.souto@correo.example ;2,5
+25/09/2026;tarde;Reparto; olga.vilar@correo.example ;2,5
+06/09/2026;mañá;Reparto;elena.souto@correo.example;2,0
+13/10/2026;mañá;Clasificación;lois.mourino@correo.example;2,0
+11/09/2026;tarde;Clasificación;ELENA.SOUTO17@CORREO.EXAMPLE;2,0
+10/10/2026;mañá;Clasificación;oscar.rial@correo.example;3,5
+13/10/2026;mañá;Recollida en supermercados;tareixa.calvo@correo.example;3,5
+14/10/2026;tarde;Reparto;hugo.cotelo@correo.example;3,5
+02/09/2026;tarde;Clasificación;Fran.rey85@correo.example;4,0
+18/09/2026;tarde;Clasificación;XURXO.COTELO@CORREO.EXAMPLE;2,5
+24/09/2026;mañá;Clasificación;carme.pena@correo.example;4,0
+22/09/2026;mañá;Reparto; roi.lema@correo.example ;2,5
+06/09/2026;tarde;Clasificación;diego.pena@correo.example;4,0
+25/10/2026;mañá;Reparto;UXIO.COTELO22@CORREO.EXAMPLE;2,0
+20/09/2026;mañá;Recollida en supermercados;SABELA.SOUTO@CORREO.EXAMPLE;3,5
+24/10/2026;tarde;Recollida en supermercados;Nerea.bermudez@correo.example;2,0
+26/09/2026;mañá;Recollida en supermercados;alba.rey@correo.example;2,5
+15/10/2026;mañá;Recollida en supermercados;Lois.vilar@correo.example;4,0
+14/09/2026;mañá;Reparto;diego.fernandez@correo.example;3,0
+31/10/2026;tarde;Clasificación;lois.dopico@correo.example;3,0
+27/10/2026;mañá;Clasificación;MARTINO.RIVEIRO@CORREO.EXAMPLE;2,5
+21/09/2026;tarde;Reparto;elena.calvo@correo.example;4,0
+09/09/2026;mañá;Reparto;ROI.COTELO@CORREO.EXAMPLE;3,0
+17/09/2026;mañá;Clasificación;iria.souto@correo.example;4,0
+25/09/2026;tarde;Recollida en supermercados;vera.lema@correo.example;3,5
+11/09/2026;tarde;Recollida en supermercados;elena.calvo@correo.example;2,0
+09/09/2026;mañá;Reparto;fran.lopez@correo.example;3,5
+31/10/2026;tarde;Recollida en supermercados; oscar.bermudez9@correo.example ;3,0
+15/09/2026;mañá;Reparto;alba.castro@correo.example;2,0
+06/10/2026;tarde;Reparto;Vera.calvo46@correo.example;2,5
+11/10/2026;mañá;Clasificación;fran.rey@correo.example;3,0
+11/09/2026;tarde;Recollida en supermercados;martino.pena@correo.example;2,0
+11/09/2026;mañá;Recollida en supermercados;marta.rey@correo.example;2,0
+18/10/2026;mañá;Reparto;martino.mourino14@correo.example;2,0
+01/10/2026;tarde;Reparto; uxio.rial36@correo.example ;2,0
+30/09/2026;tarde;Reparto; brais.dopico@correo.example ;3,5
+02/10/2026;tarde;Clasificación;TAREIXA.CALVO@CORREO.EXAMPLE;2,5
+07/09/2026;mañá;Clasificación;hugo.cotelo@correo.example;2,0
+16/09/2026;tarde;Recollida en supermercados;hugo.pena@correo.example;3,0
+23/09/2026;mañá;Reparto; sergio.cotelo@correo.example ;2,5
+05/10/2026;tarde;Reparto;alba.castro@correo.example;2,5
+26/10/2026;tarde;Recollida en supermercados;iria.riveiro@correo.example;3,5
+16/10/2026;mañá;Recollida en supermercados;sergio.cotelo@correo.example;2,5
+17/09/2026;mañá;Recollida en supermercados; marta.vilar@correo.example ;4,0
+26/10/2026;tarde;Clasificación;SABELA.CASTRO@CORREO.EXAMPLE;3,0
+27/09/2026;mañá;Clasificación; diego.fernandez@correo.example ;3,5
+29/09/2026;mañá;Reparto;hugo.riveiro@correo.example;4,0
+08/10/2026;tarde;Recollida en supermercados;Alba.cotelo59@correo.example;3,5
+30/10/2026;mañá;Recollida en supermercados;vera.souto@correo.example;2,5
+27/09/2026;tarde;Clasificación;olga.vilar34@correo.example;3,0
+20/10/2026;mañá;Clasificación;elena.souto41@correo.example;4,0
+09/09/2026;tarde;Reparto; sabela.dopico@correo.example ;2,5
+10/09/2026;tarde;Recollida en supermercados;lois.lema@correo.example;2,0
+16/10/2026;mañá;Reparto;Uxio.mourino@correo.example;4,0
+15/09/2026;tarde;Recollida en supermercados;elena.lopez@correo.example;4,0
+06/10/2026;mañá;Recollida en supermercados;vera.calvo46@correo.example;4,0
+10/10/2026;mañá;Reparto; uxio.mourino@correo.example ;3,5
+09/10/2026;mañá;Recollida en supermercados; sabela.calvo@correo.example ;3,0
+02/10/2026;tarde;Clasificación; uxio.castro@correo.example ;4,0
+10/10/2026;tarde;Clasificación;uxio.mourino@correo.example;3,0
+12/10/2026;mañá;Reparto;vera.lema@correo.example;3,5
+16/10/2026;tarde;Recollida en supermercados;sabela.lema@correo.example;2,0
+08/09/2026;mañá;Recollida en supermercados;carme.calvo27@correo.example;3,0
+04/09/2026;tarde;Clasificación;vera.calvo46@correo.example;3,5
+09/09/2026;tarde;Reparto;LOIS.LEMA72@CORREO.EXAMPLE;3,0
+03/09/2026;tarde;Clasificación;sabela.souto@correo.example;3,5
+21/10/2026;tarde;Recollida en supermercados;CARME.CALVO@CORREO.EXAMPLE;3,5
+12/10/2026;tarde;Clasificación;FRAN.REY@CORREO.EXAMPLE;3,0
+09/10/2026;mañá;Clasificación;martino.mourino14@correo.example;3,5
+29/09/2026;tarde;Clasificación;martino.riveiro@correo.example;2,5
+22/10/2026;mañá;Recollida en supermercados;iria.pena@correo.example;2,0
+09/10/2026;mañá;Recollida en supermercados; sergio.cotelo@correo.example ;2,0
+21/10/2026;tarde;Recollida en supermercados;martino.rey@correo.example;2,5
+03/09/2026;tarde;Recollida en supermercados;Paula.calvo@correo.example;4,0
+04/09/2026;tarde;Clasificación; uxio.rial@correo.example ;2,0
+01/09/2026;tarde;Reparto; martino.riveiro@correo.example ;3,0
+20/09/2026;mañá;Reparto;alba.rey@correo.example;4,0
+09/09/2026;tarde;Clasificación;carme.calvo27@correo.example;3,5
+02/10/2026;tarde;Clasificación;MARTA.PENA@CORREO.EXAMPLE;4,0
+17/09/2026;mañá;Recollida en supermercados;Paula.calvo@correo.example;2,0
+03/09/2026;mañá;Recollida en supermercados; oscar.rial@correo.example ;3,5
+29/10/2026;tarde;Recollida en supermercados; vera.calvo46@correo.example ;4,0
+15/10/2026;tarde;Clasificación;sabela.mourino@correo.example;3,5
+07/09/2026;mañá;Recollida en supermercados;xurxo.fernandez@correo.example;4,0
+22/09/2026;mañá;Recollida en supermercados; roi.lema@correo.example ;2,0
+26/09/2026;tarde;Clasificación;uxio.souto@correo.example;2,0
+27/10/2026;mañá;Reparto;Lois.mourino@correo.example;2,0
+01/09/2026;mañá;Reparto;alba.cotelo@correo.example;2,5
+11/09/2026;tarde;Clasificación;nerea.bermudez@correo.example;4,0
+19/09/2026;tarde;Reparto;martino.mourino14@correo.example;2,0
+29/09/2026;mañá;Recollida en supermercados;olga.vilar@correo.example;2,0
+16/10/2026;mañá;Clasificación;ROSA.RIAL@CORREO.EXAMPLE;2,0
+28/10/2026;mañá;Clasificación;sabela.mourino@correo.example;3,0
+23/10/2026;mañá;Recollida en supermercados; lois.lema@correo.example ;3,5
+24/10/2026;tarde;Recollida en supermercados;olga.calvo@correo.example;3,0
+09/09/2026;mañá;Recollida en supermercados;hugo.lema@correo.example;3,0
+17/09/2026;tarde;Clasificación; sabela.castro@correo.example ;4,0
+15/09/2026;tarde;Clasificación;alba.mourino@correo.example;2,5
+17/09/2026;tarde;Recollida en supermercados;diego.castro@correo.example;2,0
+09/10/2026;mañá;Reparto;carme.pena@correo.example;2,5
+16/09/2026;tarde;Clasificación;rosa.castro@correo.example;3,0
+30/09/2026;mañá;Clasificación;iria.pena@correo.example;3,0
+08/09/2026;tarde;Recollida en supermercados; sabela.dopico@correo.example ;3,5
+05/09/2026;mañá;Recollida en supermercados; oscar.rial@correo.example ;3,0
+08/10/2026;tarde;Clasificación;Brais.rey@correo.example;3,5
+18/10/2026;mañá;Reparto;alba.castro@correo.example;2,0
+03/10/2026;mañá;Recollida en supermercados;carme.bermudez@correo.example;4,0
+16/10/2026;tarde;Clasificación;tareixa.riveiro@correo.example;3,0
+25/09/2026;mañá;Reparto;xurxo.lopez@correo.example;3,0
+23/09/2026;mañá;Recollida en supermercados;iria.pena@correo.example;4,0
+02/09/2026;mañá;Recollida en supermercados;hugo.riveiro@correo.example;3,5
+18/10/2026;tarde;Clasificación;elena.calvo@correo.example;2,0
+26/10/2026;mañá;Recollida en supermercados;lois.souto@correo.example;3,5
+20/09/2026;tarde;Reparto; ana.vilar@correo.example ;2,0
+07/10/2026;tarde;Clasificación;tareixa.riveiro@correo.example;2,0
+25/09/2026;mañá;Reparto;XURXO.FERNANDEZ98@CORREO.EXAMPLE;2,0
+05/09/2026;tarde;Reparto;diego.fernandez@correo.example;3,0
+18/10/2026;mañá;Clasificación;IRIA.BERMUDEZ@CORREO.EXAMPLE;3,0
+06/10/2026;tarde;Reparto;sabela.bermudez@correo.example;3,5
+08/10/2026;mañá;Recollida en supermercados;LOIS.SOUTO@CORREO.EXAMPLE;2,5
+30/09/2026;mañá;Recollida en supermercados;iria.varela@correo.example;3,5
+02/09/2026;tarde;Clasificación; vera.lema@correo.example ;2,5
+21/09/2026;tarde;Recollida en supermercados;sabela.calvo@correo.example;3,0
+03/09/2026;tarde;Reparto;OLGA.CALVO@CORREO.EXAMPLE;2,0
+18/10/2026;tarde;Clasificación;SABELA.LEMA@CORREO.EXAMPLE;3,5
+20/09/2026;tarde;Recollida en supermercados;elena.lopez@correo.example;3,0
+03/09/2026;tarde;Recollida en supermercados;fran.rey85@correo.example;2,5
+23/09/2026;mañá;Reparto;elena.souto41@correo.example;3,5
+01/10/2026;mañá;Reparto;UXIO.RIAL@CORREO.EXAMPLE;3,5
+18/09/2026;tarde;Reparto; diego.cotelo65@correo.example ;3,5
+15/09/2026;mañá;Reparto;lois.fernandez@correo.example;3,0
+17/09/2026;mañá;Clasificación;OSCAR.COTELO@CORREO.EXAMPLE;2,0
+06/09/2026;mañá;Reparto;xurxo.fernandez@correo.example;3,0
+02/09/2026;tarde;Clasificación;carme.bermudez@correo.example;3,5
+12/09/2026;mañá;Clasificación;Diego.dopico@correo.example;3,5
+07/10/2026;mañá;Clasificación; uxio.souto@correo.example ;2,0
+30/09/2026;mañá;Recollida en supermercados;elena.souto@correo.example;4,0
+18/09/2026;mañá;Reparto; iria.souto@correo.example ;3,5
+11/10/2026;tarde;Reparto;uxio.rial@correo.example;3,0
+16/09/2026;mañá;Clasificación;MARTINO.PENA@CORREO.EXAMPLE;2,0
+18/09/2026;tarde;Clasificación;rosa.rial@correo.example;2,0
+28/09/2026;tarde;Reparto;sabela.castro@correo.example;2,5
+05/10/2026;tarde;Reparto;SERGIO.PENA@CORREO.EXAMPLE;3,0
+20/09/2026;tarde;Recollida en supermercados;olga.vilar@correo.example;3,0
+11/09/2026;mañá;Recollida en supermercados;olga.vilar34@correo.example;2,5
+23/09/2026;mañá;Clasificación; paula.rey@correo.example ;3,5
+02/10/2026;mañá;Reparto;PAULA.CALVO@CORREO.EXAMPLE;2,0
+29/09/2026;tarde;Recollida en supermercados;xurxo.fernandez98@correo.example;3,5
+26/10/2026;mañá;Recollida en supermercados;tareixa.riveiro@correo.example;2,5
+09/09/2026;tarde;Reparto;CARME.COTELO@CORREO.EXAMPLE;4,0
+24/09/2026;tarde;Reparto; elena.calvo@correo.example ;3,5
+05/09/2026;tarde;Reparto;diego.castro@correo.example;3,0
+10/09/2026;tarde;Recollida en supermercados; sergio.cotelo64@correo.example ;2,0
+29/10/2026;tarde;Recollida en supermercados; lois.souto@correo.example ;3,0
+09/10/2026;mañá;Reparto; brais.dopico@correo.example ;4,0
+08/10/2026;mañá;Recollida en supermercados;lois.lema@correo.example;3,5
+25/09/2026;mañá;Recollida en supermercados;Sabela.mourino@correo.example;2,5
+09/10/2026;tarde;Clasificación;lois.lema72@correo.example;2,5
+26/09/2026;mañá;Clasificación;lois.lema@correo.example;4,0
+12/10/2026;mañá;Recollida en supermercados;PAULA.CALVO@CORREO.EXAMPLE;2,5
+21/10/2026;tarde;Clasificación; xurxo.lopez@correo.example ;2,0
+23/10/2026;mañá;Recollida en supermercados;carme.bermudez@correo.example;2,0
+13/09/2026;mañá;Reparto; alba.cotelo@correo.example ;3,0
+16/10/2026;mañá;Clasificación;alba.cotelo96@correo.example;4,0
+18/10/2026;tarde;Clasificación;marta.pena@correo.example;4,0
+22/10/2026;tarde;Reparto; lois.souto@correo.example ;2,0
+12/10/2026;mañá;Reparto;alba.cotelo59@correo.example;2,5
+01/09/2026;mañá;Recollida en supermercados;elena.rial@correo.example;4,0
+30/10/2026;tarde;Reparto;paula.rey@correo.example;3,0
+06/10/2026;mañá;Recollida en supermercados;XURXO.RIVEIRO@CORREO.EXAMPLE;3,0
+06/10/2026;mañá;Clasificación;ana.vilar@correo.example;3,0
+13/10/2026;tarde;Clasificación;iria.riveiro@correo.example;2,0
+26/09/2026;tarde;Reparto; uxio.rial@correo.example ;4,0
+22/09/2026;mañá;Reparto; elena.rial@correo.example ;3,0
+18/09/2026;mañá;Clasificación;alba.cotelo@correo.example;2,0
+09/09/2026;mañá;Recollida en supermercados;SABELA.SOUTO@CORREO.EXAMPLE;3,5
+16/10/2026;tarde;Recollida en supermercados;Marta.rey@correo.example;3,0
+06/09/2026;mañá;Reparto;Alba.mourino@correo.example;4,0
+13/10/2026;mañá;Recollida en supermercados;martino.mourino14@correo.example;4,0
+24/09/2026;tarde;Reparto;olga.calvo@correo.example;2,5
+09/09/2026;mañá;Recollida en supermercados;CARME.COTELO@CORREO.EXAMPLE;2,0
+29/09/2026;tarde;Recollida en supermercados;sergio.cotelo64@correo.example;2,5
+23/10/2026;tarde;Recollida en supermercados;hugo.riveiro@correo.example;3,5
+12/09/2026;tarde;Recollida en supermercados;diego.castro@correo.example;3,0
+07/10/2026;mañá;Clasificación;nerea.bermudez@correo.example;3,0
+02/10/2026;mañá;Reparto;martino.rey@correo.example;2,0
+28/09/2026;tarde;Recollida en supermercados; lois.vilar@correo.example ;2,0
+11/10/2026;mañá;Reparto;Martino.rey@correo.example;4,0
+06/09/2026;mañá;Reparto;TAREIXA.CALVO@CORREO.EXAMPLE;2,5
+03/10/2026;tarde;Clasificación;nerea.dopico@correo.example;3,5
+24/10/2026;tarde;Clasificación;hugo.cotelo@correo.example;2,0
+13/10/2026;tarde;Clasificación;FRAN.LOPEZ@CORREO.EXAMPLE;3,5
+26/10/2026;mañá;Reparto;sergio.bermudez@correo.example;4,0
+31/10/2026;tarde;Recollida en supermercados;vera.calvo@correo.example;4,0
+10/09/2026;mañá;Recollida en supermercados; roi.cotelo@correo.example ;3,5
+15/10/2026;mañá;Reparto;carme.calvo@coreo.example;3,0
+15/10/2026;mañá;Reparto;carme.calvo@coreo.example;3,0
+15/10/2026;mañá;Reparto;sabelalema@correo.example;3,0
+15/10/2026;mañá;Reparto;voluntario.novo@correo.example;3,0
